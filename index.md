@@ -21,7 +21,7 @@ sections:
       description: Virtual Intelligent Chat Assistant (VICA) by GovTech leverages
         advanced AI technology to deliver quick, accurate responses to citizen
         inquiries.
-      alt: Image alt text
+      alt: alt
       image: /images/sample_image.png
   - infocols:
       title: Elevate Service Delivery with VICA
