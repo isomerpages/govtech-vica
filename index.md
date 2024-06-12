@@ -28,9 +28,9 @@ sections:
       title: Elevate Service Delivery with VICA
       id: infocols
       infoboxes:
-        - title: Hybrid Artificial Intelligence
+        - title: Hybrid artificial intelligence
           description: VICA allows for balanced control between generative AI and
-            predictive AI that is compliant with government regulations
+            predictive AI, that is compliant with government regulations
         - title: No-code platform
           description: Get started on VICA easily without any coding or programming
             knowledge
