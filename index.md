@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Best government chatbot for citizen enquiries
+      title: Government chatbot for citizen enquiries
       background: /images/hero-banner.png
       button: Get Started
       url: /contact-us/
