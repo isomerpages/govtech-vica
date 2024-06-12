@@ -39,7 +39,7 @@ sections:
             accurate and relevant responses
   - infobar:
       title: Ready to take your customer support to the next level?
-      description: Sign up now and create your first FAQ assistant
+      description: Sign up now and create your first chat assistant
       button: Get Started for free
       url: /faq/
 ---
