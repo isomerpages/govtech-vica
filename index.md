@@ -40,6 +40,6 @@ sections:
   - infobar:
       title: Ready to take your customer support to the next level?
       description: Sign up now and create your first FAQ assistant
-      button: Get Started
+      button: Get Started for free
       url: /faq/
 ---
