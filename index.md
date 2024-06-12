@@ -35,7 +35,7 @@ sections:
             accurate and relevant responses
   - infobar:
       title: Ready to take your customer support to the next level?
-      description: About a sentence worth of description here
+      description: Sign up now and create your first FAQ assistant
       button: Get Started
       url: /faq/
 ---
