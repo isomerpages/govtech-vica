@@ -20,24 +20,25 @@ sections:
         advanced AI technology to deliver quick, accurate responses to citizen
         inquiries.
       alt: Image alt text
+  - infocols:
+      title: Elevate Service Delivery with VICA
+      id: infocols
+      infoboxes:
+        - title: Hybrid Artificial Intelligence
+          description: VICA allows for balanced control between generative AI and
+            predictive AI that is compliant with government regulations
+        - title: No-code platform
+          description: Get started on VICA easily without any coding or programming
+            knowledge
+        - title: Customise and train your chatbot easily
+          description: Build up your knowledge base easily on the admin console to deliver
+            accurate and relevant responses
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
   - textcards:
       title: Text Cards
       subtitle: Add informational text
