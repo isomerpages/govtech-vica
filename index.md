@@ -9,9 +9,17 @@ sections:
   - hero:
       title: Unlock customer support efficiency
       background: /images/hero-banner.png
-      button: "Get Started "
+      button: Get Started
       url: /contact-us/
       variant: side
+  - infopic:
+      title: Revolutionising customer support for government agencies
+      subtitle: Add an image and text
+      id: infopic
+      description: Virtual Intelligent Chat Assistant (VICA) by GovTech leverages
+        advanced AI technology to deliver quick, accurate responses to citizen
+        inquiries.
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -48,11 +56,4 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
