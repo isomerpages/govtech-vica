@@ -14,6 +14,7 @@ sections:
       variant: side
       size: md
       alignment: left
+      backgroundColor: gray
   - infopic:
       title: Revolutionising customer support for government agencies
       subtitle: Add an image and text
@@ -21,7 +22,7 @@ sections:
       description: Virtual Intelligent Chat Assistant (VICA) by GovTech leverages
         advanced AI technology to deliver quick, accurate responses to citizen
         inquiries.
-      alt: "vica alt "
+      alt: vica alt
       image: /images/sample_image.png
   - infocols:
       title: Elevate Service Delivery with VICA
