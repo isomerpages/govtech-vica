@@ -15,6 +15,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+      subtitle: Build your own bot in a few clicks
   - infopic:
       title: Revolutionising customer support for government agencies
       subtitle: Add an image and text
