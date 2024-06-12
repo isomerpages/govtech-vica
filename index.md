@@ -12,6 +12,8 @@ sections:
       button: Get Started
       url: /contact-us/
       variant: side
+      size: md
+      alignment: left
   - infopic:
       title: Revolutionising customer support for government agencies
       subtitle: Add an image and text
@@ -20,6 +22,7 @@ sections:
         advanced AI technology to deliver quick, accurate responses to citizen
         inquiries.
       alt: Image alt text
+      image: /images/sample_image.png
   - infocols:
       title: Elevate Service Delivery with VICA
       id: infocols
