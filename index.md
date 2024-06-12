@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Government chatbot for citizen enquiries
       background: /images/hero-banner.png
-      button: Get Started
+      button: Sign up now
       url: /contact-us/
       variant: side
       size: md
