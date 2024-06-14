@@ -18,7 +18,6 @@ sections:
       subtitle: Build your own AI chatbot in a few clicks
   - infopic:
       title: Automate and provide quicker support to citizens
-      subtitle: Add an image and text
       id: infopic
       description: Virtual Intelligent Chat Assistant (VICA) by GovTech leverages
         advanced AI technology to deliver quick, accurate responses to citizen
