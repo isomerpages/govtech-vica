@@ -1,8 +1,8 @@
 logo: /images/VICA_Logo_horizontal.png
 links:
-  - title: Login to VICA
+  - title: Login
     url: /example-page/
-  - title: Register for an account
+  - title: Register
     url: /permalink
   - title: Contact Us
     url: /contact-us/
