@@ -1,5 +1,5 @@
 title: Virtual Intelligent Chat Assistant (VICA)
-url: https://www.vica.com.sg
+url: https://vica.com.sg
 favicon: /images/VICA_favicon.png
 colors:
   primary-color: "#6031b6"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:
@@ -53,6 +53,6 @@ staging: https://staging-lite.dqqml8bptq4tu.amplifyapp.com
 prod: https://master.d8gkeqenovg8z.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
