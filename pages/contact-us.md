@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: askvica@tech.gov.sg
+      - email: ask_vica@tech.gov.sg
       - other: ""
     title: Sales & General Enquiries
 feedback: ""
