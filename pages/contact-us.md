@@ -10,7 +10,7 @@ locations:
       - Singapore 117438
     operating_hours: []
     maps_link: ""
-    title: Main office
+    title: Main Office
 contacts:
   - content:
       - phone: ""
