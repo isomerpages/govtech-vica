@@ -28,12 +28,12 @@ sections:
       title: Elevate Service Delivery with VICA
       id: infocols
       infoboxes:
-        - title: Compliant with government regulations
-          description: We got you covered—no sweat over policies and regulations
+        - title: Compliant with IM8
+          description: All data is securely stored within the GCC 2.0 parameters
         - title: Control over content
-          description: Determine your risk appetite and achieve balanced control between
-            generative AI and predictive AI
-        - title: No-code platform
+          description: Set up guardrails with custom-written responses and reduce
+            hallucination caused by Generative AI
+        - title: Launch your chatbot in 1 hour
           description: Get started on VICA easily without any coding or programming
             knowledge
   - infobar:
