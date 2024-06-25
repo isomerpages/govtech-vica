@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       title: Best government chatbot for citizen enquiries
-      background: /images/hero-banner.png
+      background: /images/Hero_2.png
       button: Sign up now
       url: /contact-us/
-      variant: side
+      variant: center
       size: md
       alignment: left
       backgroundColor: gray
