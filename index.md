@@ -11,7 +11,7 @@ sections:
       background: /images/Hero_2.png
       button: Sign up now
       url: https://go.gov.sg/signup-vica
-      variant: center
+      variant: side
       size: md
       alignment: left
       backgroundColor: gray
