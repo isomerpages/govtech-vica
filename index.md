@@ -37,7 +37,6 @@ sections:
           description: Get started on VICA easily without any programming knowledge
   - infobar:
       title: Ready to begin your AI journey with VICA?
-      description: Create your first VICA bot
       button: Get Started for free
       url: https://go.gov.sg/signup-vica
 ---
