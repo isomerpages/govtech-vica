@@ -36,8 +36,8 @@ sections:
         - title: Launch your chatbot in 1 hour
           description: Get started on VICA easily without any programming knowledge
   - infobar:
-      title: Ready to take your customer support to the next level?
-      description: Try creating your first chat assistant on VICA
+      title: Ready to begin your AI journey with VICA?
+      description: Create your first VICA bot
       button: Get Started for free
       url: https://go.gov.sg/signup-vica
 ---
