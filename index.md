@@ -25,7 +25,7 @@ sections:
       alt: vica alt
       image: /images/Section_2.png
   - infocols:
-      title: Elevate Service Delivery with VICA
+      title: Elevate service delivery with us
       id: infocols
       infoboxes:
         - title: Compliant with IM8
