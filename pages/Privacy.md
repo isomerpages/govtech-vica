@@ -4,8 +4,7 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<p>### <strong>Government Agency Privacy Statement</strong>
-</p>
+<h2><strong>Government Agency Privacy Statement</strong></h2>
 <p>1. This is a Government Agency digital service.</p>
 <p>2. We may use “cookies”, where a small data file is sent to your browser
 to store and track information about you when you enter our websites. The
