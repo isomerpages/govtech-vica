@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Best government chatbot for citizen enquiries
-      background: /images/Hero_2.png
+      background: /images/Hero_overlay.png
       button: Sign up now
       url: https://go.gov.sg/signup-vica
       variant: center
@@ -23,7 +23,7 @@ sections:
         advanced AI technology to deliver quick, accurate responses to citizen
         enquiries.
       alt: vica alt
-      image: /images/Section_2.png
+      image: /images/Section_3.png
   - infocols:
       title: Elevate service delivery with us
       id: infocols
