@@ -39,5 +39,5 @@ sections:
       title: Ready to take your customer support to the next level?
       description: Try creating your first chat assistant on VICA
       button: Get Started for free
-      url: /faq/
+      url: https://go.gov.sg/signup-vica
 ---
