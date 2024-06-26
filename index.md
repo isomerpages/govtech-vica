@@ -10,7 +10,7 @@ sections:
       title: Best government chatbot for citizen enquiries
       background: /images/Hero_2.png
       button: Sign up now
-      url: /contact-us/
+      url: https://go.gov.sg/signup-vica
       variant: center
       size: md
       alignment: left
