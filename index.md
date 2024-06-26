@@ -31,11 +31,10 @@ sections:
         - title: Compliant with IM8
           description: All data is securely stored within the GCC 2.0 parameters
         - title: Control over content
-          description: Set up guardrails with custom-written responses and reduce
-            hallucination caused by Generative AI
+          description: Set up guardrails and custom-written responses to minimise
+            hallucination
         - title: Launch your chatbot in 1 hour
-          description: Get started on VICA easily without any coding or programming
-            knowledge
+          description: Get started on VICA easily without any programming knowledge
   - infobar:
       title: Ready to take your customer support to the next level?
       description: Try creating your first chat assistant on VICA
