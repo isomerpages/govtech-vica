@@ -23,7 +23,7 @@ sections:
         advanced AI technology to deliver quick, accurate responses to citizen
         enquiries.
       alt: vica alt
-      image: /images/Section_4.png
+      image: /images/Section_svg.svg
   - infocols:
       title: Elevate service delivery with us
       id: infocols
