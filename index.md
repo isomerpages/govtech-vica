@@ -29,7 +29,7 @@ sections:
       id: infocols
       infoboxes:
         - title: Compliant with IM8
-          description: All data is securely stored within the GCC 2.0 parameters
+          description: All data is securely stored within the GCC 2.0 perimeter
         - title: Control over content
           description: Set up guardrails and custom-written responses to minimise
             hallucination
