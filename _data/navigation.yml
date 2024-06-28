@@ -1,8 +1,8 @@
 logo: /images/VICA_Logo_horizontal.png
 links:
   - title: Login
-    url: /example-page/
+    url: https://go.gov.sg/login-vica
   - title: Sign Up
-    url: /permalink
+    url: https://go.gov.sg/signup-vica
   - title: Contact Us
     url: /contact-us/

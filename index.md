@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       title: Best government chatbot for citizen enquiries
-      background: /images/hero-banner.png
+      background: /images/Hero_svg.svg
       button: Sign up now
-      url: /contact-us/
-      variant: side
+      url: https://go.gov.sg/signup-vica
+      variant: center
       size: md
       alignment: left
       backgroundColor: gray
@@ -23,22 +23,20 @@ sections:
         advanced AI technology to deliver quick, accurate responses to citizen
         enquiries.
       alt: vica alt
-      image: /images/sample_image.png
+      image: /images/Section_svg.svg
   - infocols:
-      title: Elevate Service Delivery with VICA
+      title: Elevate service delivery with us
       id: infocols
       infoboxes:
-        - title: Compliant with government regulations
-          description: We got you covered—no sweat over policies and regulations
+        - title: Compliant with IM8
+          description: All data is securely stored within the GCC 2.0 parameters
         - title: Control over content
-          description: Determine your risk appetite and achieve balanced control between
-            generative AI and predictive AI
-        - title: No-code platform
-          description: Get started on VICA easily without any coding or programming
-            knowledge
+          description: Set up guardrails and custom-written responses to minimise
+            hallucination
+        - title: Launch your chatbot in 1 hour
+          description: Get started on VICA easily without any programming knowledge
   - infobar:
-      title: Ready to take your customer support to the next level?
-      description: Try creating your first chat assistant on VICA
+      title: Ready to begin your AI journey with VICA?
       button: Get Started for free
-      url: /faq/
+      url: https://go.gov.sg/signup-vica
 ---
