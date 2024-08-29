@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Virtual Intelligent Chat Assistant (VICA)
-description: An Isomer site of the Singapore Government
+description: GovTech's Conversational AI Platform for the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
