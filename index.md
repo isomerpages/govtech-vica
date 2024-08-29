@@ -19,9 +19,9 @@ sections:
   - infopic:
       title: Automate and provide quicker support to citizens
       id: infopic
-      description: Virtual Intelligent Chat Assistant (VICA) by GovTech leverages
-        advanced AI technology to deliver quick, accurate responses to citizen
-        enquiries.
+      description: Virtual Intelligent Chat Assistant (VICA) is GovTech's
+        Conversational AI platform that helps Singapore government agencies
+        respond to citizens quickly.
       alt: vica alt
       image: /images/Section_svg.svg
   - infocols:
