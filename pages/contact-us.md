@@ -14,8 +14,8 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: ask_vica@tech.gov.sg
+      - email: enquiries@wise.gov.sg
       - other: ""
-    title: Sales & General Enquiries
-feedback: ""
+    title: Sales & General Enquiries (WISE)
+feedback: /contact-us/
 ---
