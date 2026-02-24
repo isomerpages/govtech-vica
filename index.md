@@ -10,7 +10,7 @@ sections:
       title: Best government chatbot for citizen enquiries
       background: /images/Hero_svg.svg
       button: Sign up now
-      url: https://go.gov.sg/signup-vica
+      url: https://adm.vica.gov.sg/v2/login
       variant: center
       size: md
       alignment: left
@@ -38,5 +38,5 @@ sections:
   - infobar:
       title: Ready to begin your AI journey with VICA?
       button: Get Started for free
-      url: https://go.gov.sg/signup-vica
+      url: https://adm.vica.gov.sg/v2/login
 ---
